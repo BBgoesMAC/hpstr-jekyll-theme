@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Happy Measure - My First Journal Publication"
+title: "Happy Measure - Journal Publication"
 excerpt: "The proposed system allows for interactive measurement of an object’s size and the creation of primitive based 3D models from a single photograph." 
 tags: [Android, Journal, augmented reality]
 comments: false
